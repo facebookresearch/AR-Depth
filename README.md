@@ -1,1 +1,1 @@
-Please see the Python noteook for an extensive README.
+Please see the Python notebook for the full README.
